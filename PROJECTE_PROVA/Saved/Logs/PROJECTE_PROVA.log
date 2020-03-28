@@ -785,3 +785,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.28-16.25.00:339][561]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2020.03.28-16.25.00:339][561]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2020.03.28-16.25.00:557][561]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.03.28-16.25.02:353][567]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.03.28-16.25.02:353][567]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.03.28-16.25.02:353][567]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.03.28-16.25.02:567][567]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.03.28-16.25.04:371][573]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.03.28-16.25.04:371][573]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.03.28-16.25.04:371][573]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.03.28-16.25.04:583][573]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
